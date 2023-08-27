@@ -1,3 +1,8 @@
+# Description
+This repository contains both the code and data necessary for analysing the 2022 Italy general election results at the municipality level. Focusing specifically on the Province of Lucca, where I reside, this analysis offers a series of insightful data visualizations showcasing electoral outcomes across various municipalities.
+
+Python Version Used: 3.10.9
+
 # Sources:
 - Geo-spatial data on municipalities retrieved from [ISTAT](https://www.istat.it/it/archivio/222527)
 - Data on final results at the national level retrieved from the [Italian Ministry of Interior]
